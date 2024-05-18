@@ -38,6 +38,10 @@ module.exports = {
           "Kill_MC",
           "Kill",
           ButtonStyle.Danger,
+          false,
+          "Refresh_MC",
+          "Refresh",
+          ButtonStyle.Secondary,
           false
         ),
       ],

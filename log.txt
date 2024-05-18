@@ -255,3 +255,235 @@ Sat May 18 2024 11:15:08 : {
             Action : Stop_EFT 
            } 
 Sat May 18 2024 11:40:17 : Message quotidien envoyé
+Sat May 18 2024 13:46:06 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:51:54 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:53:06 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:53:37 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:54:13 : {
+            By : .letruc
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:56:59 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:57:16 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 13:57:22 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:15:24 : {
+            By : hukilow
+            Action : Start_EFT 
+           } 
+Sat May 18 2024 14:15:33 : {
+            By : hukilow
+            Action : Stop_EFT 
+           } 
+Sat May 18 2024 14:15:42 : {
+            By : hukilow
+            Action : Start_EFT 
+           } 
+Sat May 18 2024 14:15:44 : {
+            By : hukilow
+            Action : Stop_EFT 
+           } 
+Sat May 18 2024 14:16:15 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:16:22 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:16:27 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:17:36 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:23:31 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:23:43 : {
+            By : hukilow
+            Action : Stop_EFT 
+           } 
+Sat May 18 2024 14:24:47 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:24:52 : {
+            By : hukilow
+            Action : Stop_EFT 
+           } 
+Sat May 18 2024 14:25:04 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:25:11 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:25:12 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:38:55 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:38:58 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:39:24 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:39:26 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:39:58 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:40:59 : {
+            By : myien
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:41:03 : {
+            By : myien
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:41:29 : {
+            By : myien
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:41:32 : {
+            By : myien
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 14:43:10 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:00 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:09 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:15 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:19 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:24 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:34 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:35 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:37 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:39 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:42 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:44 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:46 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:48 : {
+            By : hukilow
+            Action : Refresh_EFT 
+           } 
+Sat May 18 2024 15:09:51 : {
+            By : hukilow
+            Action : Start_EFT 
+           } 
+Sat May 18 2024 15:09:53 : {
+            By : hukilow
+            Action : Stop_EFT 
+           } 
+Sat May 18 2024 16:23:29 : {
+            By : hukilow
+            Action : Refresh_MC 
+           } 
+Sat May 18 2024 16:24:15 : {
+            By : hukilow
+            Action : Refresh_MC 
+           } 
+Sat May 18 2024 16:24:18 : {
+            By : hukilow
+            Action : Start_MC 
+           } 
+Sat May 18 2024 16:24:20 : {
+            By : hukilow
+            Action : Stop_MC 
+           } 
+Sat May 18 2024 16:24:23 : {
+            By : hukilow
+            Action : Start_MC 
+           } 
+Sat May 18 2024 16:24:25 : {
+            By : hukilow
+            Action : Refresh_MC 
+           } 
+Sat May 18 2024 16:26:20 : {
+            By : hukilow
+            Action : Refresh_MC 
+           } 
+Sat May 18 2024 16:26:21 : {
+            By : hukilow
+            Action : Refresh_MC 
+           } 
+Sat May 18 2024 16:26:23 : {
+            By : hukilow
+            Action : Start_MC 
+           } 
+Sat May 18 2024 16:26:24 : {
+            By : hukilow
+            Action : Stop_MC 
+           } 

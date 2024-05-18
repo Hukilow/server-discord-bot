@@ -6,8 +6,8 @@
 5 silly config:load:file:/usr/local/etc/npmrc
 6 verbose title npm install
 7 verbose argv "install"
-8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-05-18T09_38_26_253Z-
-9 verbose logfile /home/container/.npm/_logs/2024-05-18T09_38_26_253Z-debug-0.log
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-05-18T13_06_05_268Z-
+9 verbose logfile /home/container/.npm/_logs/2024-05-18T13_06_05_268Z-debug-0.log
 10 silly logfile start cleaning logs, removing 1 files
 11 silly logfile done cleaning log files
 12 silly idealTree buildDeps
@@ -41,7 +41,7 @@
 14 silly audit   'undici-types': [ '5.26.5' ],
 14 silly audit   ws: [ '8.17.0' ]
 14 silly audit }
-15 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 245ms
+15 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 263ms
 16 silly audit report {
 16 silly audit report   axios: [
 16 silly audit report     {
@@ -55,7 +55,7 @@
 16 silly audit report     }
 16 silly audit report   ]
 16 silly audit report }
-17 http fetch GET 200 https://registry.npmjs.org/axios 9ms (cache hit)
-18 http fetch GET 200 https://registry.npmjs.org/nodeactyl 3ms (cache hit)
+17 http fetch GET 200 https://registry.npmjs.org/axios 10ms (cache hit)
+18 http fetch GET 200 https://registry.npmjs.org/nodeactyl 543ms (cache revalidated)
 19 verbose exit 0
 20 info ok

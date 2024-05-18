@@ -6,8 +6,8 @@
 5 silly config:load:file:/usr/local/etc/npmrc
 6 verbose title npm install
 7 verbose argv "install"
-8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-05-18T09_38_23_669Z-
-9 verbose logfile /home/container/.npm/_logs/2024-05-18T09_38_23_669Z-debug-0.log
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-05-18T12_32_26_798Z-
+9 verbose logfile /home/container/.npm/_logs/2024-05-18T12_32_26_798Z-debug-0.log
 10 silly logfile start cleaning logs, removing 1 files
 11 silly logfile done cleaning log files
 12 silly idealTree buildDeps
@@ -55,7 +55,7 @@
 16 silly audit report     }
 16 silly audit report   ]
 16 silly audit report }
-17 http fetch GET 200 https://registry.npmjs.org/axios 6ms (cache hit)
-18 http fetch GET 200 https://registry.npmjs.org/nodeactyl 2ms (cache hit)
+17 http fetch GET 200 https://registry.npmjs.org/axios 8ms (cache hit)
+18 http fetch GET 200 https://registry.npmjs.org/nodeactyl 3ms (cache hit)
 19 verbose exit 0
 20 info ok

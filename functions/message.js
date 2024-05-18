@@ -11,6 +11,11 @@ const message = function (title, img, etat, blague, nom, couleur) {
       color: 0x04f000,
     })
     .setThumbnail(img)
+    .addFields({
+      name: "N'hésitez pas à appuyer sur le bouton 'Refresh' afin d'actualiser l'état du serveur",
+      value: " _ _",
+      inline: true,
+    })
     .addFields(
       { name: " ", value: " " },
       { name: "Etat du serveur", value: " " },

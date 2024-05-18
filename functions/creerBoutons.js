@@ -16,11 +16,15 @@ const Quatre_boutons = function (
   ID4,
   LABEL4,
   STYLE4,
-  DISABLE4
+  DISABLE4,
+  ID5,
+  LABEL5,
+  STYLE5,
+  DISABLE5
 ) {
   const boutons = [];
 
-  for (let i = 1; i <= 4; i++) {
+  for (let i = 1; i <= 5; i++) {
     const ID = "ID" + i;
     const LABEL = "LABEL" + i;
     const STYLE = "STYLE" + i;
@@ -36,7 +40,8 @@ const Quatre_boutons = function (
     boutons[0],
     boutons[1],
     boutons[2],
-    boutons[3]
+    boutons[3],
+    boutons[4]
   );
   return row;
 };

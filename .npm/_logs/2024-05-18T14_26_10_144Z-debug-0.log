@@ -6,17 +6,17 @@
 5 silly config:load:file:/usr/local/etc/npmrc
 6 verbose title npm install discord.js nodeactyl dotenv
 7 verbose argv "install" "discord.js" "nodeactyl" "dotenv"
-8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-05-18T09_42_59_811Z-
-9 verbose logfile /home/container/.npm/_logs/2024-05-18T09_42_59_811Z-debug-0.log
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-05-18T14_26_10_144Z-
+9 verbose logfile /home/container/.npm/_logs/2024-05-18T14_26_10_144Z-debug-0.log
 10 silly logfile start cleaning logs, removing 1 files
 11 silly logfile done cleaning log files
 12 silly idealTree buildDeps
 13 silly fetch manifest discord.js@^14.15.2
-14 http fetch GET 200 https://registry.npmjs.org/discord.js 109ms (cache revalidated)
+14 http fetch GET 200 https://registry.npmjs.org/discord.js 22ms (cache hit)
 15 silly fetch manifest dotenv@^16.4.5
-16 http fetch GET 200 https://registry.npmjs.org/dotenv 54ms (cache revalidated)
+16 http fetch GET 200 https://registry.npmjs.org/dotenv 12ms (cache hit)
 17 silly fetch manifest nodeactyl@^3.3.0
-18 http fetch GET 200 https://registry.npmjs.org/nodeactyl 560ms (cache revalidated)
+18 http fetch GET 200 https://registry.npmjs.org/nodeactyl 2ms (cache hit)
 19 silly placeDep ROOT discord.js@14.15.2 REPLACE for:  want: ^14.15.2
 20 silly placeDep ROOT dotenv@16.4.5 REPLACE for:  want: ^16.4.5
 21 silly placeDep ROOT nodeactyl@3.3.0 REPLACE for:  want: ^3.3.0
@@ -50,7 +50,7 @@
 23 silly audit   dotenv: [ '16.4.5' ],
 23 silly audit   nodeactyl: [ '3.3.0' ]
 23 silly audit }
-24 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 186ms
+24 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 238ms
 25 silly audit report {
 25 silly audit report   axios: [
 25 silly audit report     {
@@ -64,6 +64,6 @@
 25 silly audit report     }
 25 silly audit report   ]
 25 silly audit report }
-26 http fetch GET 200 https://registry.npmjs.org/axios 29ms (cache revalidated)
+26 http fetch GET 200 https://registry.npmjs.org/axios 3ms (cache hit)
 27 verbose exit 0
 28 info ok
